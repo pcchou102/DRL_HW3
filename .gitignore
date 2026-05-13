@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# 訓練產生的 checkpoint 與 log（體積大）
+hw3_3_lightning_logs/
+lightning_logs/
+
+# 訓練產生的圖片（可選擇保留或排除）
+# hw3_1_losses.png
+# hw3_2_comparison.png
+# hw3_3_loss.png
+# hw3_4_rainbow_loss.png
+
+# 虛擬環境
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
