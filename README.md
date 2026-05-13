@@ -33,8 +33,8 @@ hw33/
 ├── hw3_3_lightning_dqn.py     # HW3-3: PyTorch Lightning DQN
 ├── hw3_4_rainbow_dqn.py       # HW3-4: Rainbow DQN（純 PyTorch）
 │
-├── HW3_1_Understanding_Report.md  # HW3-1 理解報告
-├── HW3_4_Rainbow_DQN_Analysis.md  # HW3-4 分析報告
+├── hw3_1_understanding_report.md  # HW3-1 理解報告
+├── hw3_4_rainbow_dqn_analysis.md  # HW3-4 分析報告
 │
 ├── hw3_1_losses.png           # 訓練後自動產生
 ├── hw3_2_comparison.png       # 訓練後自動產生
